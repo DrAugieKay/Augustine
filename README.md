@@ -1,4 +1,7 @@
-# Augustine K. Anokye-Wusu — Academic Website (`username.github.io`)
+# Augustine K. Anokye-Wusu — Academic Website
+
+Repo: https://github.com/DrAugieKay/Augustine.git
+Live URL (after Pages enabled): https://draugiekay.github.io/Augustine/
 
 Bilingual (EN + 中文) academic site in pure **HTML + CSS + JS** — ready for **GitHub Pages user site**.
 
